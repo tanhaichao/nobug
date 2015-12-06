@@ -119,9 +119,9 @@ public class XssUtil {
 	}
 
 	public static void checkUrl(String url) {
-		// url:http://message.game.yy.com/udb/callback.do?xparam=1&url=http://message.game.yy.com/admin/index.do
-		// url:http://message.game.yy.com/udb/callback.do?cancel=1
-		// url:http://message.game.yy.com/admin/index.do
+		// url:http://message.leopard.io/udb/callback.do?xparam=1&url=http://message.leopard.io/admin/index.do
+		// url:http://message.leopard.io/udb/callback.do?cancel=1
+		// url:http://message.leopard.io/admin/index.do
 		boolean hasXss = XssCheckerUrlImpl.getInstance().check(url);
 		if (hasXss) {
 			throw new XssException("非法URL参数[" + url + "]");
