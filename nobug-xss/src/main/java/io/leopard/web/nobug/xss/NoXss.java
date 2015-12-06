@@ -1,4 +1,4 @@
-package io.leopard.web4j.nobug.xss;
+package io.leopard.web.nobug.xss;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

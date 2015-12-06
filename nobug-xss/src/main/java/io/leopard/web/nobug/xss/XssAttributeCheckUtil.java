@@ -1,4 +1,4 @@
-package io.leopard.web4j.nobug.xss;
+package io.leopard.web.nobug.xss;
 
 import java.lang.reflect.Field;
 import java.util.Date;
@@ -11,7 +11,7 @@ import java.util.Set;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import io.leopard.web.nobug.xss.CustomBeanUtil;
+import io.leopard.web4j.nobug.xss.FieldCache;
 
 public class XssAttributeCheckUtil {
 

@@ -1,4 +1,4 @@
-package io.leopard.web4j.nobug.xss;
+package io.leopard.web.nobug.xss;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

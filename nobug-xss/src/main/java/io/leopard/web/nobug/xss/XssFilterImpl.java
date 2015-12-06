@@ -1,4 +1,4 @@
-package io.leopard.web4j.nobug.xss;
+package io.leopard.web.nobug.xss;
 
 import org.apache.commons.logging.Log;
 
