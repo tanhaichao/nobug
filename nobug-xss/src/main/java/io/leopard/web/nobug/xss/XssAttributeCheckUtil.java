@@ -11,8 +11,6 @@ import java.util.Set;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-import io.leopard.web4j.nobug.xss.FieldCache;
-
 public class XssAttributeCheckUtil {
 
 	protected static final Log logger = LogFactory.getLog(XssAttributeCheckUtil.class);
