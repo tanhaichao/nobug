@@ -4,6 +4,8 @@
 	<artifactId>nobug-parent</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<name>NoBug</name>
+	<description>安全框架。支持XSS、CSRF、Json劫持等漏洞防范。</description>
 
 	<parent>
 		<groupId>io.leopard.depend</groupId>

@@ -6,6 +6,8 @@
 		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 	<artifactId>nobug-xss</artifactId>
+	<name>XSS漏洞防范</name>
+	<description></description>
 
 	<dependencies>
 
