@@ -6,7 +6,7 @@
 		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 	<artifactId>nobug-csrf</artifactId>
-	<name>CSRF漏洞防范</name>
+	<name>CSRF、JSONP劫持漏洞防范</name>
 	<description></description>
 
 	<dependencies>
