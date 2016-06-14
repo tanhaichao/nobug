@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.leopard</groupId>
 	<artifactId>nobug-parent</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.9.3</version>
 	<packaging>pom</packaging>
 	<name>NoBug</name>
 	<description>安全框架。支持XSS、CSRF、JSONP劫持等漏洞防范。</description>
@@ -14,9 +14,9 @@
 	</parent>
 
 	<scm>
-		<url>https://github.com/tanhaichao/nobug</url>
-		<connection>scm:svn:https://github.com/tanhaichao/nobug/trunk</connection>
-		<developerConnection>scm:svn:https://github.com/tanhaichao/nobug/trunk</developerConnection>
+		<url>https://github.com/tanhaichao/nobug/tags/nobug-0.9.3</url>
+		<connection>scm:svn:https://github.com/tanhaichao/nobug/tags/nobug-0.9.3</connection>
+		<developerConnection>scm:svn:https://github.com/tanhaichao/nobug/tags/nobug-0.9.3</developerConnection>
 	</scm>
 
 
